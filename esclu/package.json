@@ -1,0 +1,18 @@
+{
+  "name": "esclu",
+  "version": "1.0.0",
+  "description": "Elasticsearch Command Line Utilities",
+  "main": "index.js",
+  "bin": {
+    "esclu": "./esclu"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Santana",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "2.9.0",
+    "request": "2.79.0"
+  }
+}

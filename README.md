@@ -1,0 +1,1 @@
+Projects from the book "Node.js 8 the Right Way" by Jim Wilson
